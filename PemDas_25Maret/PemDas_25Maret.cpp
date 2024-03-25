@@ -74,7 +74,7 @@ int main()
          }
 
 
-    } while (pilihan != 5);
+    } while (pilihan != 5); 
 
 }
 
